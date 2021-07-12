@@ -8,23 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
-My work has been [published](publications) in
-*International Studies Quarterly*, *Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets.
-My [research](research) explores the causes and consequences of political
-violence using a broad variety of methods such as latent variable models,
-geospatial analysis, and big data. While I primarily focus on civil conflict, I
-also examine contentious political phenomena including terrorism and economic
-statecraft. I have [teaching](teaching) experience in both international
-relations and quantitative methodology.
+I am a Ph.D. candidate in the [Department of Statistics](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/), advised by Dr. [Raymond Wong](https://raymondkww.github.io/). Prior to TAMU, I received a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/) in 2017.
+
+
+I am broadly interested in methodology and theory in nonparametric statistics and machine learning. 
+My recent research focuses on statistical problems with complex functional data  or unknown  missing structures. 
+
+
+You can download a PDF copy of my CV [here](/files/pdf/CV_short.pdf).
+
+Contact Information
+======
+* Email: jiayiwang@tamu.edu
+* Phone: (979)587-4534
