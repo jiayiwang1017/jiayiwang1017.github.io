@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Jiayi Wang (汪佳依)"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
+name                     : &name "Jiayi Wang"
+description              : &description "Ph.D. Student in Statistics"
 url                      : https://jiayiwang1017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiayiwang1017/jiayiwang1017.github.io"
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Jiayi Wang"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "Ph.D. Student in Statistics"
+  location         : "College Station, Texas"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : #"http://orcid.org/0000-0001-9259-3883"
+  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  email            : #"rob.williams@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,8 +99,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "jiayiwang1017"
+  gitlab           : #"jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : #"jayrobw"
   vine             :
   weibo            :
   xing             :
