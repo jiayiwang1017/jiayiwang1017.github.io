@@ -49,7 +49,7 @@ First, I develop new methodologies and theories for statistical problems with fu
 - **J. Wang**, R. K. W. Wong and X. Zhang (2021+). "**Low-rank Covariance Function Estimation for Multidimensional Functional Data**". Journal of the American Statistical Association.
   - ASA Section on Nonparametric Statistics Student Paper Award (2020)
 
-  [Journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1820344){: .btn--research} [Arkiv](https://arxiv.org/abs/2008.12919){: .btn--research}  [Code](https://github.com/jiayiwang1017/mfdacov-code){: .btn--research}
+  [Journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1820344){: .btn--research} [arKiv](https://arxiv.org/abs/2008.12919){: .btn--research}  [Code](https://github.com/jiayiwang1017/mfdacov-code){: .btn--research}
 
 
 
