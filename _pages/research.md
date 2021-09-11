@@ -34,7 +34,7 @@ First, I develop new methodologies and theories for statistical problems with fu
 
 - **J. Wang**, R. K. W. Wong, S. Yang and K. C. G. Chan.  "**Estimation of Partially Conditional Average Treatment Effect by Hybrid Kernel-covariate Balancing**", submitted, 2021.
 
-  [arKiv](https://arxiv.org/abs/2103.03437){: .btn--research} 
+  [arXiv](https://arxiv.org/abs/2103.03437){: .btn--research} 
 
 
 
@@ -43,13 +43,13 @@ First, I develop new methodologies and theories for statistical problems with fu
 
 - **J. Wang**, R. K. W. Wong, X. Mao and K. C. G. Chan. (2021+). "**Matrix Completion with Model-free Weighting**". International Conference on Machine Learning (ICML).
 
-  [arKiv](https://arxiv.org/abs/2106.05850){: .btn--research}  [Code](https://github.com/jiayiwang1017/MC-weighting-code){: .btn--research}
+  [arXiv](https://arxiv.org/abs/2106.05850){: .btn--research}  [Code](https://github.com/jiayiwang1017/MC-weighting-code){: .btn--research}
 
 
 - **J. Wang**, R. K. W. Wong and X. Zhang (2021+). "**Low-rank Covariance Function Estimation for Multidimensional Functional Data**". Journal of the American Statistical Association.
   - ASA Section on Nonparametric Statistics Student Paper Award (2020)
 
-  [Journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1820344){: .btn--research} [arKiv](https://arxiv.org/abs/2008.12919){: .btn--research}  [Code](https://github.com/jiayiwang1017/mfdacov-code){: .btn--research}
+  [Journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1820344){: .btn--research} [arXiv](https://arxiv.org/abs/2008.12919){: .btn--research}  [Code](https://github.com/jiayiwang1017/mfdacov-code){: .btn--research}
 
 
 
