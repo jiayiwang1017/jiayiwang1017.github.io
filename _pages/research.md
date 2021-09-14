@@ -31,10 +31,21 @@ First, I develop new methodologies and theories for statistical problems with fu
 
 ## Preprints
 
+- **J. Wang**, Z. Qi, and R. K. W. Wong.  "**Projected State-action Balancing Weights for Offline Reinforcement Learning**", submitted, 2021.
+
+  [arXiv](https://arxiv.org/abs/2109.04640){: .btn--research} 
+
 
 - **J. Wang**, R. K. W. Wong, S. Yang and K. C. G. Chan.  "**Estimation of Partially Conditional Average Treatment Effect by Hybrid Kernel-covariate Balancing**", submitted, 2021.
 
   [arXiv](https://arxiv.org/abs/2103.03437){: .btn--research} 
+  
+  
+- **J. Wang**,  R. K. W. Wong, M. Jun, C. Schumacher, R. Saravanan, and C. Sun. (2021). 
+		Statistical and Machine Learning Methods Applied to the Prediction of Different Tropical Rainfall Types.
+		
+ [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507122.1){: .btn--research} 
+
 
 
 
