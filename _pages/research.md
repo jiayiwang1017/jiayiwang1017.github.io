@@ -42,7 +42,7 @@ First, I develop new methodologies and theories for statistical problems with fu
   
   
 - **J. Wang**,  R. K. W. Wong, M. Jun, C. Schumacher, R. Saravanan, and C. Sun. (2021). 
-		Statistical and Machine Learning Methods Applied to the Prediction of Different Tropical Rainfall Types.
+		"**Statistical and Machine Learning Methods Applied to the Prediction of Different Tropical Rainfall Types**", submitted, 2021.
 		
   [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507122.1){: .btn--research} 
 
