@@ -22,13 +22,13 @@ author_profile: true
 
 - **J. Wang**, R. K. W. Wong, X. Mao and K. C. G. Chan. (2021+). "**Matrix Completion with Model-free Weighting**". International Conference on Machine Learning (ICML).
 
-  [Proceedings](http://proceedings.mlr.press/v139/wang21x/wang21x.pdf){: .btn--research} [arXiv](https://arxiv.org/abs/2106.05850){: .btn--research}  [Code](https://github.com/jiayiwang1017/MC-weighting-code){: .btn--research}
+  [proceedings](http://proceedings.mlr.press/v139/wang21x/wang21x.pdf){: .btn--research} [arXiv](https://arxiv.org/abs/2106.05850){: .btn--research}  [code](https://github.com/jiayiwang1017/MC-weighting-code){: .btn--research}
 
 
 - **J. Wang**, R. K. W. Wong and X. Zhang. (2021+). "**Low-rank Covariance Function Estimation for Multidimensional Functional Data**". Journal of the American Statistical Association.
   - ASA Section on Nonparametric Statistics Student Paper Award (2020)
 
-  [Journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1820344){: .btn--research} [arXiv](https://arxiv.org/abs/2008.12919){: .btn--research}  [Code](https://github.com/jiayiwang1017/mfdacov-code){: .btn--research}
+  [journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1820344){: .btn--research} [arXiv](https://arxiv.org/abs/2008.12919){: .btn--research}  [code](https://github.com/jiayiwang1017/mfdacov-code){: .btn--research}
 
 
 ## Preprints
