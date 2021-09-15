@@ -18,6 +18,9 @@ My recent research focuses on statistical problems with complex functional data 
 
 You can download a PDF copy of my CV [here](/files/pdf/CV_short.pdf).
 
+
+
+
 Contact Information
 ======
 * Email: jiayiwang@tamu.edu
