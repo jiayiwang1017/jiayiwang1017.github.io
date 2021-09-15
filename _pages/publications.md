@@ -1,8 +1,6 @@
 ---
-layout: archive
+permalink: /publications/
 title: "Publications"
-permalink: 
-author_profile: true
 ---
 
 ## Publication
