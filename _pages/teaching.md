@@ -4,9 +4,9 @@ title: "Teaching"
 ---
 
 ## Texas A&M University
-- ** Instructor**:
+- **Instructor**:
     - Stat 201: Elementary Statistical Inference, Summer 2021
-- ** Teaching assitant**:
+- **Teaching assitant**:
     - Stat 614: Probability for Stat (graduate level), Fall 2022
     - Stat 648: Apllied Stat & Data Analysis (graduate level), Spring 2021 
     - Stat 612: Theory of Linear Models (graduate level), Fall 2021, Fall 2022
