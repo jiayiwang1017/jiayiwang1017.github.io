@@ -21,4 +21,4 @@ You can download a PDF copy of my CV [here](/files/pdf/CV_short.pdf).
 Contact Information
 ======
 * Email: jiayiwang@tamu.edu
-* Phone: (979)587-4534
+* Phone: (979) 587-4534
