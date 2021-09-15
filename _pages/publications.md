@@ -1,9 +1,8 @@
 ---
 permalink: /publications/
-
+title: "Publication"
 ---
 
-## Publication
 
 
 - **J. Wang**, R. K. W. Wong, X. Mao and K. C. G. Chan. (2021+). "**Matrix Completion with Model-free Weighting**". International Conference on Machine Learning (ICML).
@@ -17,7 +16,7 @@ permalink: /publications/
   [journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1820344){: .btn--research} [arXiv](https://arxiv.org/abs/2008.12919){: .btn--research}  [code](https://github.com/jiayiwang1017/mfdacov-code){: .btn--research}
 
 
-## Preprints
+# Preprints
 
 - **J. Wang**, Z. Qi, and R. K. W. Wong.  "**Projected State-action Balancing Weights for Offline Reinforcement Learning**". Submitted.
 
