@@ -2,12 +2,14 @@
 main:   
   - title: "Research"
     url: /research/
+    
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
   
-  #- title: "Publications"
-  #  url: /publications/
+  
 
   #- title: "Software"
   #  url: /software/
