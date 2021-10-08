@@ -22,8 +22,7 @@ First, I develop new methodologies and theories for statistical problems with fu
 -->
 
 ## Overview
-I am broadly interested in the  field of nonparametric statistics and machine learning. The overarching theme of my research is on developing novel statistical and machine learning methods that are motivated by real-world problems and supported by rigorous theory. One of my current focuses is the statistical problems that involve functional data aspects. On the one hand, I develop methodology and theory for functional data analysis with modern data challenges such as multidimensionality and sparse design. On the other hand, I am interested in investigating the role of functional data play in other domains. 
-Another branch of my current research is handling imperfect data where observations are missing or collected under an undesired distribution. In particular, I study such problems in causal inference, matrix completion, and reinforcement learning.
+I am broadly interested in the field of nonparametric statistics and machine learning. The overarching theme of my research is on developing novel statistical and machine learning methods that are motivated by real-world problems and supported by rigorous theory. One of my current focuses is the statistical problems that involve functional data. On the one hand, I develop methodology and theory for functional data analysis with modern data challenges such as multidimensionality and sparse design. On the other hand, I am interested in the applications of functional data in other statistical areas, such as causal inference. Another branch of my current research is handling imperfect data where observations are partially missing or collected under an undesirable distribution. In particular, I study such problems in different areas such as causal inference, matrix completion, and reinforcement learning.
 
 
 
