@@ -18,7 +18,7 @@ title: "Publications"
 - **J. Wang**,  R. K. W. Wong, M. Jun, C. Schumacher, R. Saravanan, and C. Sun.  
 		"**Statistical and Machine Learning Methods Applied to the Prediction of Different Tropical Rainfall Types**". Environmental Research Communications. Accepted.
 		
-  [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507122.1){: .btn--research} 
+  [journal](https://iopscience.iop.org/article/10.1088/2515-7620/ac371f){: .btn--research} [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507122.1){: .btn--research} 
 
 
 # Preprints
