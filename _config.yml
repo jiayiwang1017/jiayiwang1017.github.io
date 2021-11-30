@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jiayi Wang"
 description              : &description "Ph.D. Student in Statistics"
 url                      : https://jiayiwang1017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://jiayiwang1017.github.io/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiayiwang1017/jiayiwang1017.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
