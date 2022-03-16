@@ -19,15 +19,14 @@ title: "Publications"
 		"**Statistical and Machine Learning Methods Applied to the Prediction of Different Tropical Rainfall Types**". Environmental Research Communications. Accepted.
 		
   [journal](https://doi.org/10.1088/2515-7620/ac371f){: .btn--research} [ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10507122.3){: .btn--research} 
-
-
-# Preprints
-
-- **J. Wang**, Z. Qi, and R. K. W. Wong.  "**Projected State-action Balancing Weights for Offline Reinforcement Learning**". Submitted.
+  
+- **J. Wang**, Z. Qi, and R. K. W. Wong.  "**Projected State-action Balancing Weights for Offline Reinforcement Learning**". Electronic Journal of Statistics. Accepted.
 
   [arXiv](https://arxiv.org/abs/2109.04640){: .btn--research} 
 
 
+
+# Preprints
 - **J. Wang**, R. K. W. Wong, S. Yang and K. C. G. Chan.  "**Estimation of Partially Conditional Average Treatment Effect by Hybrid Kernel-covariate Balancing**". Submitted.
 
   [arXiv](https://arxiv.org/abs/2103.03437){: .btn--research} 
