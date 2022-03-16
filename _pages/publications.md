@@ -21,7 +21,7 @@ title: "Publications"
   [journal](https://doi.org/10.1088/2515-7620/ac371f){: .btn--research} [ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10507122.3){: .btn--research} 
   
 
-- **J. Wang**, R. K. W. Wong, S. Yang and K. C. G. Chan.  "**Estimation of Partially Conditional Average Treatment Effect by Hybrid Kernel-covariate Balancing**". Electronic Journal of Statistics. Accepted.
+- **J. Wang**, R. K. W. Wong, S. Yang and K. C. G. Chan.  "**Estimation of Partially Conditional Average Treatment Effect by Double Kernel-covariate Balancing**". Electronic Journal of Statistics. Accepted.
 
   [arXiv](https://arxiv.org/abs/2103.03437){: .btn--research} 
 
