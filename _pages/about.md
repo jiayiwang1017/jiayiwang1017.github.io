@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the [Department of Statistics](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/), advised by Dr. [Raymond Wong](https://raymondkww.github.io/). Prior to TAMU, I received a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/) in 2017.
+I am an Assistant Professor in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at the [University of Texas at Dallas](https://www.utdallas.edu/). I obtaied my Ph.D. degree in the [Department of Statistics](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/)(TAMU), advised by Dr. [Raymond Wong](https://raymondkww.github.io/).
+Prior to TAMU, I received a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/) in 2017.
 
 
 I am broadly interested in methodology and theory in nonparametric statistics and machine learning. 
@@ -23,5 +24,5 @@ You can download a PDF copy of my CV [here](/files/pdf/CV_short.pdf).
 
 Contact Information
 ======
-* Email: jiayiwang@tamu.edu
+* Email: jxw220029@utdallas.edu
 * Phone: (979) 587-4534
