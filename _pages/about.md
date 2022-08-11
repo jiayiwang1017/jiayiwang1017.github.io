@@ -24,5 +24,5 @@ You can download a PDF copy of my CV [here](/files/pdf/CV_short.pdf).
 
 Contact Information
 ======
-* Email: jxw220029@utdallas.edu
+* Email: jiayi.wang2@utdallas.edu
 * Phone: (979) 587-4534
