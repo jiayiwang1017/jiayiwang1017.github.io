@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiayi Wang (汪佳依)"
 title_separator          : "-"
 name                     : &name "Jiayi Wang"
-description              : &description "Ph.D. Student in Statistics"
+description              : &description "Assistant Professor in Statistics"
 url                      : https://jiayiwang1017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiayiwang1017/jiayiwang1017.github.io"
@@ -85,7 +85,7 @@ author:
   name             : "Jiayi Wang"
   avatar           : "profile3.png"
   bio              : "Ph.D. Student in Statistics"
-  location         : "College Station, Texas"
+  location         : "Dallas, Texas"
   employer         :
   pubmed           :
   orcid            : #"http://orcid.org/0000-0001-9259-3883"
