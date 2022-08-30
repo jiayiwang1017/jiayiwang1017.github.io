@@ -23,7 +23,7 @@ title: "Publications"
 
 - **J. Wang**, R. K. W. Wong, S. Yang and K. C. G. Chan.  "**Estimation of Partially Conditional Average Treatment Effect by Double Kernel-covariate Balancing**". Electronic Journal of Statistics. Accepted.
 
-  [journal](https://doi.org/10.1088/2515-7620/ac371f){: .btn--research} [arXiv](https://arxiv.org/abs/2103.03437){: .btn--research} [code](https://github.com/jiayiwang1017/PCATE-balancing){: .btn--research}
+  [journal](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-2/Estimation-of-partially-conditional-average-treatment-effect-by-double-kernel/10.1214/22-EJS2000.full){: .btn--research} [arXiv](https://arxiv.org/abs/2103.03437){: .btn--research} [code](https://github.com/jiayiwang1017/PCATE-balancing){: .btn--research}
   
   
 
