@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-- J.Li, **J.Wang**, R. K. W. Wong, and K. C. G. Chan. (2024+) "**A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness**". NeurIPS (spotlight).
+- J. Li, **J.Wang**, R. K. W. Wong, and K. C. G. Chan. (2024+) "**A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness**". NeurIPS (spotlight).
  
 - **J. Wang**, Z. Qi, and R. K. W. Wong. (2024) "**A Fine-grained Analysis of Fitted Q-evaluation: Beyond Parametric Models**".  International Conference on Machine Learning (ICML).
   
