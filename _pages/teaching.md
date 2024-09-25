@@ -3,6 +3,10 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+## University of Texas at Dallas
+- **Instructor**:
+  - STAT 4360: Introduction to Statistical Learning
+
 ## Texas A&M University
 - **Instructor**:
     - Stat 201: Elementary Statistical Inference, Summer 2021
