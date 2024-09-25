@@ -16,11 +16,11 @@ title: "Publications"
 
 - B. Alexander L., C. Jonson, W. Miller, and **J. Wang**. (2024) "**Attitudinal schemas and academy training receptivity: a quasi-experimental study of prison officers**." Journal of Experimental Criminology.
   
-  [journal](https://link.springer.com/article/10.1007/s11292-023-09604-7){: .btn--research}
+    [journal](https://link.springer.com/article/10.1007/s11292-023-09604-7){: .btn--research}
   
 -  X. Gao, **J. Wang**, G. Hu, and J. Sun. (2024).  "**Functional Causal Inference with Time-to-Event Data**." Statistics in Biosciences.
 
-  [journal](https://link.springer.com/article/10.1007/s12561-024-09439-4){: .btn--research} [arXiv](https://arxiv.org/abs/2304.12460){: .btn--research} 
+    [journal](https://link.springer.com/article/10.1007/s12561-024-09439-4){: .btn--research} [arXiv](https://arxiv.org/abs/2304.12460){: .btn--research} 
 
 - **J. Wang**, Z. Qi, and R. K. W. Wong. (2023)  "**Projected State-action Balancing Weights for Offline Reinforcement Learning**". The Annals of Statistics.
   
