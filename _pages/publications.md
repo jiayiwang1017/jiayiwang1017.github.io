@@ -3,13 +3,14 @@ permalink: /publications/
 title: "Publications"
 ---
 
-- J. Li, **J.Wang**, R. K. W. Wong, and K. C. G. Chan. (2024+) "**A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness**". NeurIPS (spotlight).
+- J. Li, **J. Wang**, R. K. W. Wong, and K. C. G. Chan. (2024+) "**A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness**". NeurIPS (Spotlight).
  
 - **J. Wang**, Z. Qi, and R. K. W. Wong. (2024) "**A Fine-grained Analysis of Fitted Q-evaluation: Beyond Parametric Models**".  International Conference on Machine Learning (ICML).
-  
+
    [arXiv](https://arxiv.org/abs/2406.10438){: .btn--research}
 
 - Y. Hojun, **J. Wang**, R. K. W. Wong, C. Schumacher, R. Saravanand, and M. Jun. (2024) "Prediction of Tropical Pacific Rain Rates with Over-parameterized Neural Networks." Artificial Intelligence for the Earth Systems.
+  
   [journal](https://journals.ametsoc.org/view/journals/aies/3/3/AIES-D-23-0083.1.xml){: .btn--research}  [arXiv](https://arxiv.org/abs/2309.14358){: .btn--research} 
 
 
@@ -19,9 +20,11 @@ title: "Publications"
   
 -  X. Gao, **J. Wang**, G. Hu, and J. Sun. (2024).  "**Functional Causal Inference with Time-to-Event Data**." Statistics in Biosciences.
 
+  [journal](https://link.springer.com/article/10.1007/s12561-024-09439-4){: .btn--research} [arXiv](https://arxiv.org/abs/2304.12460){: .btn--research} 
+
 - **J. Wang**, Z. Qi, and R. K. W. Wong. (2023)  "**Projected State-action Balancing Weights for Offline Reinforcement Learning**". The Annals of Statistics.
   
- [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-4/Projected-state-action-balancing-weights-for-offline-reinforcement-learning/10.1214/23-AOS2302.full){: .btn--research} [arXiv](https://arxiv.org/abs/2109.04640){: .btn--research} 
+   [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-4/Projected-state-action-balancing-weights-for-offline-reinforcement-learning/10.1214/23-AOS2302.full){: .btn--research} [arXiv](https://arxiv.org/abs/2109.04640){: .btn--research} 
 
 - **J. Wang**, R. K. W. Wong and X. Zhang. (2022). "**Low-rank Covariance Function Estimation for Multidimensional Functional Data**". Journal of the American Statistical Association.
   - ASA Section on Nonparametric Statistics Student Paper Award (2020)
@@ -47,10 +50,12 @@ title: "Publications"
 
 # Preprints
 - **J. Wnag**, Z. Qi and C. Shi, "**Blessing from experts: Super reinforcement learning in confounded environments**".
-[arXiv](https://arxiv.org/abs/2209.15448){: .btn--research}
+  
+   [arXiv](https://arxiv.org/abs/2209.15448){: .btn--research}
 
 - **J. Wang**, R. K.W. Wong, X. Zhang and K. C. G. Chan. "**Flexible Treatment Effect Estimation with Functional Treatments**".
-  [arXiv](https://arxiv.org/abs/2309.08039){: .btn--research}
+  
+   [arXiv](https://arxiv.org/abs/2309.08039){: .btn--research}
 
 
 
