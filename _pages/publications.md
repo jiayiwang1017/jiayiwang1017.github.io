@@ -9,7 +9,7 @@ title: "Publications"
 
    [arXiv](https://arxiv.org/abs/2406.10438){: .btn--research}
 
-- Y. Hojun, **J. Wang**, R. K. W. Wong, C. Schumacher, R. Saravanand, and M. Jun. (2024) "Prediction of Tropical Pacific Rain Rates with Over-parameterized Neural Networks." Artificial Intelligence for the Earth Systems.
+- Y. Hojun, **J. Wang**, R. K. W. Wong, C. Schumacher, R. Saravanand, and M. Jun. (2024) "**Prediction of Tropical Pacific Rain Rates with Over-parameterized Neural Networks**." Artificial Intelligence for the Earth Systems.
   
   [journal](https://journals.ametsoc.org/view/journals/aies/3/3/AIES-D-23-0083.1.xml){: .btn--research}  [arXiv](https://arxiv.org/abs/2309.14358){: .btn--research} 
 
