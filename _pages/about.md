@@ -17,7 +17,7 @@ I am broadly interested in methodology and theory in nonparametric statistics an
 My recent research focuses on statistical problems with complex functional data  or unknown  missing structures. 
 
 
-You can download a PDF copy of my CV [here](/files/pdf/CV_short.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/UTD-standard-format-for-vitae-2024-25.pdf).
 
 
 
