@@ -8,7 +8,7 @@ title: "Publications"
  
 - **J. Wang**, Z. Qi, and R. K. W. Wong. (2024) "**A Fine-grained Analysis of Fitted Q-evaluation: Beyond Parametric Models**".  International Conference on Machine Learning (ICML).
 
-   [arXiv](https://arxiv.org/abs/2406.10438){: .btn--research}
+   [proceedings](https://proceedings.mlr.press/v235/wang24be.html){: .btn--research} [arXiv](https://arxiv.org/abs/2406.10438){: .btn--research}
 
 - Y. Hojun, **J. Wang**, R. K. W. Wong, C. Schumacher, R. Saravanand, and M. Jun. (2024) "**Prediction of Tropical Pacific Rain Rates with Over-parameterized Neural Networks**." Artificial Intelligence for the Earth Systems.
   
