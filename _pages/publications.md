@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-- K. Zhao, **J. Wang**, and Y. Lou. (2025) "**Noisy Low-Rank Matrix Completion via Transformed L1 Regularization and Its Theoretical Properties**". Artificial Intelligence and Statistics (AISTATS).
+- K. Zhao, **J. Wang**, and Y. Lou. (2025) "**Noisy Low-Rank Matrix Completion via Transformed L1 Regularization and Its Theoretical Properties**". International Conference on Artificial Intelligence and Statistics (AISTATS).
 
   [arXiv](https://arxiv.org/abs/2503.02289){: .btn--research}
 
