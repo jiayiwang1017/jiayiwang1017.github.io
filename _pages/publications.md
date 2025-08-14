@@ -5,7 +5,7 @@ title: "Publications"
 
 - K. Zhao, **J. Wang**, and Y. Lou. (2025) "**Noisy Low-Rank Matrix Completion via Transformed L1 Regularization and Its Theoretical Properties**". International Conference on Artificial Intelligence and Statistics (AISTATS).
 
- [proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/file/149ad6e32c08b73a3ecc3d11977fcc47-Paper-Conference.pdf){: .btn--research} [arXiv](https://arxiv.org/abs/2503.02289){: .btn--research} 
+   [proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/file/149ad6e32c08b73a3ecc3d11977fcc47-Paper-Conference.pdf){: .btn--research} [arXiv](https://arxiv.org/abs/2503.02289){: .btn--research} 
 
 
 - J. Li, **J. Wang**, R. K. W. Wong, and K. C. G. Chan. (2024+) "**A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness**". Advances in Neural Information Processing Systems (NeurIPS).
