@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-- S. Hong, **J. Wang**, Z. Qi, R. K. W. Wong. (2025) "**A Principled Path to Fitted Distributional Evaluation**". Advances in Neural Information Processing Systems (NeurIPS). (Spotlight)
+- S. Hong, **J. Wang**, Z. Qi, R. K. W. Wong. (2025) "**A Principled Path to Fitted Distributional Evaluation**". Advances in Neural Information Processing Systems (NeurIPS). (**Spotlight**)
 
 - Q. Kuang, **J. Wang**, F. Zhou, Z. Qi. (2025) "**Breaking the Order Barrier: Off-Policy Evaluation for Confounded POMDPs**". Advances in Neural Information Processing Systems (NeurIPS).
 
@@ -12,7 +12,7 @@ title: "Publications"
    [proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/file/149ad6e32c08b73a3ecc3d11977fcc47-Paper-Conference.pdf){: .btn--research} [arXiv](https://arxiv.org/abs/2503.02289){: .btn--research} 
 
 
-- J. Li, **J. Wang**, R. K. W. Wong, and K. C. G. Chan. (2024) "**A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness**". Advances in Neural Information Processing Systems (NeurIPS). (Spotlight)
+- J. Li, **J. Wang**, R. K. W. Wong, and K. C. G. Chan. (2024) "**A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness**". Advances in Neural Information Processing Systems (NeurIPS). (**Spotlight**)
 
  
   [proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/file/149ad6e32c08b73a3ecc3d11977fcc47-Paper-Conference.pdf){: .btn--research}
